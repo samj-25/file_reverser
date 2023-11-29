@@ -1,5 +1,5 @@
-#File reverser code using TDD.
+# File reverser code using TDD.
 
-###How to execute:
-####Extract the zip file.
-####Run unit test.
+### How to execute:
+#### 1. Extract the zip file.
+#### 2. Run unit test.
