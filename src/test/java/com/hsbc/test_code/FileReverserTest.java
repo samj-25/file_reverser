@@ -1,4 +1,4 @@
-package com.hsbc.test;
+package com.hsbc.test_code;
 
 import org.junit.jupiter.api.Test;
 
